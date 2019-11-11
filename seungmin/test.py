@@ -30,3 +30,8 @@ def solution(answers):
             answer.append(i + 1)
 
     return answer
+
+
+answers = [1, 2, 3, 4, 5]
+result = solution(answers)
+print(result)
